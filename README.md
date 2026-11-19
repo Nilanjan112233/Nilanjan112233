@@ -12,4 +12,4 @@ I like making small models do useful things on ordinary hardware, and I keep a c
 
 **Tools I use:** Python · FastAPI · llama.cpp / GGUF · embeddings · STT/TTS · MongoDB · SQL · Docker · Linux · React/TypeScript
 
-**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/nilanjan-mondal-1b1590202/) · [Hugging Face](https://huggingface.co/Nilmon)
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/nilanjan-mondal-ai/) · [Hugging Face](https://huggingface.co/Nilmon)
